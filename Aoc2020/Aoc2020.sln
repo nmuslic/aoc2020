@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc2020", "Aoc2020\Aoc2020.csproj", "{A2956225-E93D-4ED8-97DD-F9BE15EA0404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc2020.Tests", "Aoc2020.Tests\Aoc2020.Tests.csproj", "{3447F953-1F83-441F-9DE2-E33F78354EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2956225-E93D-4ED8-97DD-F9BE15EA0404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2956225-E93D-4ED8-97DD-F9BE15EA0404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2956225-E93D-4ED8-97DD-F9BE15EA0404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2956225-E93D-4ED8-97DD-F9BE15EA0404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3447F953-1F83-441F-9DE2-E33F78354EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3447F953-1F83-441F-9DE2-E33F78354EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3447F953-1F83-441F-9DE2-E33F78354EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3447F953-1F83-441F-9DE2-E33F78354EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C2817E-E434-4194-A3A8-958D80EAA814}
+	EndGlobalSection
+EndGlobal
