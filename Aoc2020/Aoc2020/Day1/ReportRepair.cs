@@ -11,8 +11,7 @@ namespace Aoc2020.Day1
 
         public ReportRepair(string input)
         {
-            string[] values = input.Split('\n');
-            entries = values[..^1].Select(x => int.Parse(x)).ToArray();
+            entries = input.Split('\n')[..^1].Select(x => int.Parse(x)).ToArray();
 
             this.entriesSet = new Dictionary<int, int>();
 

@@ -61,6 +61,40 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 9-11 p: pppppppppxblp
+        ///2-4 b: bbxbb
+        ///3-5 q: dqfqb
+        ///5-8 g: ggcgggglg
+        ///10-18 l: gllpmlgtrmnllhllrlll
+        ///18-19 z: zzzzznszzzzzzzzzzzxz
+        ///3-6 r: frrhxsnrmgmw
+        ///1-8 n: zkxhnxnzghnm
+        ///11-12 z: zzczzzztlzlzzzz
+        ///4-7 q: qqqbncqqq
+        ///3-4 c: ccvfc
+        ///19-20 l: sltlklljdlzglwllllzl
+        ///6-16 h: dhhhrhvhnhdchfsnhq
+        ///3-7 l: fllllqjlll
+        ///8-9 k: xkkjqklkm
+        ///1-2 l: llgpl
+        ///2-4 x: qkjxvqlv
+        ///5-6 c: cwcccjch
+        ///3-7 n: bnnhnwnqtdnndnncnd
+        ///8-9 n: nnrkmdnkn
+        ///6-9 t: ttttrtltptgvcd
+        ///3-4 h: hhwhhhdhhhh
+        ///7-8 w: wdwvcwwszcwwwwwq
+        ///2-4 n: vnng
+        ///3-13 v: vvvvvvvvvvvvjv
+        ///9-11 c: zccc [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string PasswordPhilosophyInput {
+            get {
+                return ResourceManager.GetString("PasswordPhilosophyInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 1429
         ///1368
         ///1661
@@ -184,6 +218,31 @@ namespace Aoc2020.Tests.Resources {
         internal static string ReportRepairSampleInput {
             get {
                 return ResourceManager.GetString("ReportRepairSampleInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ........#..#.##.#..............
+        ///...#...............#.#.........
+        ///...#..#...#..##....#...........
+        ///...#.............#....#.....#..
+        ///..#......#..#...#.......#......
+        ///..............##...............
+        ///#.......#.........#......#....#
+        ///.#.....###.....#...#.#.#...#...
+        ///#.....................#....#.#.
+        ///.......#...................#...
+        ///...#.#...................#....#
+        ///....#....#.......#...#.........
+        ///..##.#............#..#.........
+        ///.....##.#..............##..###.
+        ///...........#....#....#.........
+        ///#.....#...#...#.#.#.#.##.#...#.
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TobogganTrajectoryInput {
+            get {
+                return ResourceManager.GetString("TobogganTrajectoryInput", resourceCulture);
             }
         }
     }

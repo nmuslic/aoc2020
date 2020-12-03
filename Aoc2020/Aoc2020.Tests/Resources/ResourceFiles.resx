@@ -118,10 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PasswordPhilosophyInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>PasswordPhilosophyInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="ReportRepairInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>ReportRepairInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="ReportRepairSampleInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>ReportRepairSampleInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="TobogganTrajectoryInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>TobogganTrajectoryInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
 </root>
