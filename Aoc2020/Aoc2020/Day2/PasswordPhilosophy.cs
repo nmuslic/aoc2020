@@ -36,7 +36,7 @@ namespace Aoc2020.Day2
                 char firstPosition = policy.Password[policy.MinRequired - 1];
                 char secondPosition = policy.Password[policy.MaxRequired - 1];
 
-                if ((firstPosition == policy.Letter && secondPosition != policy.Letter) || (firstPosition != policy.Letter && secondPosition == policy.Letter))
+                if (firstPosition == policy.Letter ^ secondPosition == policy.Letter)
                 {
                     result++;
                 }

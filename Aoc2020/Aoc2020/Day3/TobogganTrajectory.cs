@@ -39,6 +39,7 @@ namespace Aoc2020.Day3
 
             return slopes[0].TreeCount;
         }
+
         public static void CalculateTreeCount(string input, List<Slope> slopes)
         {
             string[] rows = input.Split('\n');
@@ -57,7 +58,6 @@ namespace Aoc2020.Day3
                         }
                     }
                 }
-
             }
         }
 

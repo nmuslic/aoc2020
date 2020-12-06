@@ -61,6 +61,158 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to BFFBFBFLRL
+        ///BFBFBBBLRR
+        ///BFBFBFBLRR
+        ///BFBFFFFRLR
+        ///BBFFBBFRRR
+        ///FBBBFFFRLL
+        ///FFBFBFFLLL
+        ///BBFBFFFRLL
+        ///FBBBFFBLRR
+        ///FFFFBFFRRL
+        ///BFBFBFBRLL
+        ///FFBFFBBLLL
+        ///BFFBBFFRLR
+        ///FBBFFFFLRR
+        ///FBFBFFBRRR
+        ///FFBFFBBRRR
+        ///FBBBFFFRRL
+        ///FFBBBBFRRL
+        ///BFFBBBBLLL
+        ///BFBBFBBLLR
+        ///FBBFBFFLLR
+        ///FBBFBFFLRR
+        ///BFFFFBFLLL
+        ///FBBBBBBRRR
+        ///FBFFBBFLLR
+        ///BBFBFFBRLR
+        ///FFFFFBBLLR
+        ///FBBFBBBRLL
+        ///FFFFBBFRRR
+        ///FFFFBFBLRL
+        ///FFFBFBFLLR
+        ///FFBFBBBLRR
+        ///BFFBBBFRLR
+        ///FFFBFBBLLL
+        ///FBFBBBFLRR
+        ///BBFFFBFLLL
+        ///FFFFFBBLRR
+        ///FFBFBFFRLL
+        ///BFFFBBFRLR
+        ///BFBBBFBLLR
+        ///FFFBBFFLRL
+        ///BFBBBFBLLL
+        ///FBFBBFBRLR
+        ///BBFFBFFRRR
+        ///BFFFFBBLRR
+        ///FBBBBBFLRL
+        ///FBFBBB [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BinaryBoardingInput {
+            get {
+                return ResourceManager.GetString("BinaryBoardingInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to mswxhfpl
+        ///xmhulfp
+        ///jhglrxfvmp
+        ///xtldhmpf
+        ///
+        ///c
+        ///c
+        ///lc
+        ///c
+        ///
+        ///zxe
+        ///ex
+        ///oxncuje
+        ///vdex
+        ///devx
+        ///
+        ///xjylztwnkbma
+        ///apxzvjlwnbdyk
+        ///zlnbrkyagwjx
+        ///ykslxwbjuzang
+        ///wjkbylazxne
+        ///
+        ///aekysof
+        ///ecfokmdaysl
+        ///ykiosefa
+        ///oxsugykeaf
+        ///fstyoake
+        ///
+        ///svzgnfiujobmc
+        ///kjlvfbnwimuzdqtgsec
+        ///cgijufnsbmzxv
+        ///csfnzvujmigb
+        ///
+        ///jzofxqebrk
+        ///zmverjxoafush
+        ///ozclfjbierx
+        ///jforizlex
+        ///
+        ///cedziyl
+        ///lnemy
+        ///
+        ///oujdnhgwlqfbmpcrevktaizs
+        ///covqbthupgradfnijslexwk
+        ///
+        ///eawjhlxrtc
+        ///ahjlwexcr
+        ///
+        ///yhnidq
+        ///ehznqy
+        ///qhyn
+        ///hcqny
+        ///qywnchd
+        ///
+        ///skzfnylhmdqcgjoiuv
+        ///zwlujnyfismkgdh
+        ///nyfxlmiuwdgzkj
+        ///jnekmgtdpfuzilbr
+        ///
+        ///gecslpwytzojbv
+        ///retwyjs [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string CustomCustomsInput {
+            get {
+                return ResourceManager.GetString("CustomCustomsInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to iyr:2015 cid:189 ecl:oth byr:1947 hcl:#6c4ab1 eyr:2026
+        ///hgt:174cm
+        ///pid:526744288
+        ///
+        ///pid:688706448 iyr:2017 hgt:162cm cid:174 ecl:grn byr:1943 hcl:#808e9e eyr:2025
+        ///
+        ///ecl:oth hcl:#733820 cid:124 pid:111220591
+        ///iyr:2019 eyr:2001
+        ///byr:1933 hgt:159in
+        ///
+        ///pid:812929897 hgt:159cm hcl:#fffffd byr:1942 iyr:2026 cid:291
+        ///ecl:oth
+        ///eyr:2024
+        ///
+        ///cid:83 pid:524032739 iyr:2013 ecl:amb byr:1974
+        ///hgt:191cm hcl:#ceb3a1 eyr:2028
+        ///
+        ///ecl:gry hcl:eefed5 pid:88405792 hgt:183cm cid:221 byr:1963 eyr:2029
+        ///
+        ///pid:777881168 ecl:grn
+        ///hgt:181cm byr:1923 eyr [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string PassportProcessingInput {
+            get {
+                return ResourceManager.GetString("PassportProcessingInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 9-11 p: pppppppppxblp
         ///2-4 b: bbxbb
         ///3-5 q: dqfqb
