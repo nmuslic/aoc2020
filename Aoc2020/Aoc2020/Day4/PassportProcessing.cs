@@ -72,7 +72,7 @@ namespace Aoc2020.Day4
                 }
                 else if (fieldName == "hgt")
                 {
-                    string unit = fieldValue.Substring(fieldValue.Length - 2);
+                    string unit = fieldValue[^2..];
                     bool heightExists = int.TryParse(fieldValue[0..^2], out int height);
 
                     if (!heightExists)

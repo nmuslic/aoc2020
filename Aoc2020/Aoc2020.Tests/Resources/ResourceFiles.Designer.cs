@@ -184,6 +184,22 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to plaid beige bags contain 3 drab magenta bags.
+        ///dim silver bags contain 2 shiny chartreuse bags, 4 dull magenta bags.
+        ///bright silver bags contain 2 faded maroon bags.
+        ///shiny cyan bags contain 4 plaid green bags, 4 dim coral bags, 4 dull indigo bags.
+        ///shiny orange bags contain 3 dim cyan bags, 1 mirrored beige bag, 5 pale orange bags.
+        ///posh gray bags contain 5 dark bronze bags, 2 striped lavender bags, 3 light tan bags.
+        ///clear lime bags contain 1 shiny crimson bag, 1 dark plum bag.
+        ///wavy chartreuse bags contain 1 st [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HandyHaversacksInput {
+            get {
+                return ResourceManager.GetString("HandyHaversacksInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to iyr:2015 cid:189 ecl:oth byr:1947 hcl:#6c4ab1 eyr:2026
         ///hgt:174cm
         ///pid:526744288
