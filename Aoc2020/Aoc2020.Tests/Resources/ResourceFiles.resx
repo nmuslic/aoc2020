@@ -124,6 +124,12 @@
   <data name="CustomCustomsInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>CustomCustomsInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
+  <data name="EncodingErrorInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>EncodingErrorInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="HandheldHaltingInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>HandheldHaltingInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="HandyHaversacksInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>HandyHaversacksInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>

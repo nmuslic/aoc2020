@@ -184,6 +184,241 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 21
+        ///32
+        ///15
+        ///49
+        ///19
+        ///30
+        ///50
+        ///40
+        ///33
+        ///45
+        ///11
+        ///42
+        ///26
+        ///10
+        ///12
+        ///5
+        ///4
+        ///1
+        ///27
+        ///17
+        ///41
+        ///43
+        ///14
+        ///29
+        ///18
+        ///6
+        ///24
+        ///16
+        ///28
+        ///7
+        ///8
+        ///31
+        ///44
+        ///9
+        ///13
+        ///30
+        ///85
+        ///11
+        ///22
+        ///10
+        ///48
+        ///70
+        ///15
+        ///19
+        ///20
+        ///17
+        ///21
+        ///25
+        ///14
+        ///23
+        ///18
+        ///26
+        ///104
+        ///37
+        ///16
+        ///24
+        ///27
+        ///28
+        ///29
+        ///31
+        ///32
+        ///44
+        ///30
+        ///46
+        ///39
+        ///33
+        ///35
+        ///34
+        ///42
+        ///36
+        ///38
+        ///47
+        ///72
+        ///40
+        ///41
+        ///43
+        ///60
+        ///45
+        ///48
+        ///49
+        ///51
+        ///55
+        ///73
+        ///59
+        ///69
+        ///62
+        ///63
+        ///65
+        ///71
+        ///67
+        ///68
+        ///89
+        ///70
+        ///74
+        ///78
+        ///160
+        ///81
+        ///83
+        ///136
+        ///90
+        ///117
+        ///130
+        ///99
+        ///115
+        ///100
+        ///106
+        ///118
+        ///152
+        ///121
+        ///161
+        ///219
+        ///184
+        ///133
+        ///142
+        ///145
+        ///146
+        ///159
+        ///164
+        ///155
+        ///168
+        ///171
+        ///217
+        ///381
+        ///252
+        ///189
+        ///633
+        ///205
+        ///199
+        ///246
+        ///221
+        ///224
+        ///239
+        ///301
+        ///254
+        ///459
+        ///275
+        ///304
+        ///323
+        ///287
+        ///291
+        ///588
+        ///392
+        ///319
+        ///326
+        ///475
+        ///388
+        ///711
+        ///394
+        ///404
+        ///695
+        ///429
+        ///420
+        ///540
+        ///526
+        ///4 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string EncodingErrorInput {
+            get {
+                return ResourceManager.GetString("EncodingErrorInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to nop +612
+        ///acc -6
+        ///acc +41
+        ///acc -4
+        ///jmp +388
+        ///acc +3
+        ///acc +25
+        ///acc +11
+        ///nop +56
+        ///jmp +110
+        ///jmp +479
+        ///jmp +129
+        ///nop +436
+        ///jmp +339
+        ///acc -3
+        ///acc -17
+        ///acc -14
+        ///acc +37
+        ///jmp +24
+        ///jmp +324
+        ///jmp +233
+        ///jmp +1
+        ///acc +44
+        ///acc +17
+        ///nop +150
+        ///jmp +163
+        ///acc +0
+        ///acc +10
+        ///acc +49
+        ///jmp +170
+        ///acc +36
+        ///jmp +339
+        ///acc +28
+        ///acc -8
+        ///nop +194
+        ///jmp +84
+        ///acc +11
+        ///jmp +241
+        ///acc +0
+        ///jmp +1
+        ///acc +1
+        ///jmp +370
+        ///jmp +245
+        ///jmp +235
+        ///acc -6
+        ///acc +27
+        ///jmp +493
+        ///nop +401
+        ///acc +40
+        ///acc +7
+        ///jmp +562
+        ///acc +6
+        ///nop +472
+        ///acc -7
+        ///nop +508
+        ///jmp +44
+        ///nop +2
+        ///jmp -6
+        ///nop +542
+        ///acc +1
+        ///acc +34
+        ///acc +39
+        ///jmp +239
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HandheldHaltingInput {
+            get {
+                return ResourceManager.GetString("HandheldHaltingInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to plaid beige bags contain 3 drab magenta bags.
         ///dim silver bags contain 2 shiny chartreuse bags, 4 dull magenta bags.
         ///bright silver bags contain 2 faded maroon bags.
