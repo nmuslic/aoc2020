@@ -61,6 +61,111 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 70
+        ///102
+        ///148
+        ///9
+        ///99
+        ///63
+        ///40
+        ///52
+        ///91
+        ///39
+        ///55
+        ///28
+        ///54
+        ///22
+        ///95
+        ///61
+        ///118
+        ///35
+        ///14
+        ///21
+        ///129
+        ///82
+        ///137
+        ///45
+        ///7
+        ///87
+        ///81
+        ///25
+        ///3
+        ///108
+        ///41
+        ///11
+        ///145
+        ///18
+        ///65
+        ///80
+        ///115
+        ///29
+        ///136
+        ///42
+        ///97
+        ///104
+        ///117
+        ///141
+        ///62
+        ///121
+        ///23
+        ///96
+        ///24
+        ///128
+        ///48
+        ///1
+        ///112
+        ///8
+        ///34
+        ///144
+        ///134
+        ///116
+        ///58
+        ///147
+        ///51
+        ///84
+        ///17
+        ///126
+        ///64
+        ///68
+        ///135
+        ///10
+        ///77
+        ///105
+        ///127
+        ///73
+        ///111
+        ///90
+        ///16
+        ///103
+        ///109
+        ///98
+        ///146
+        ///123
+        ///130
+        ///69
+        ///133
+        ///110
+        ///30
+        ///122
+        ///15
+        ///74
+        ///33
+        ///38
+        ///83
+        ///92
+        ///2
+        ///53
+        ///140
+        ///4
+        ///.
+        /// </summary>
+        internal static string AdapterArrayInput {
+            get {
+                return ResourceManager.GetString("AdapterArrayInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to BFFBFBFLRL
         ///BFBFBBBLRR
         ///BFBFBFBLRR
@@ -498,6 +603,158 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to F37
+        ///E1
+        ///S5
+        ///R180
+        ///S1
+        ///F37
+        ///L180
+        ///F38
+        ///S1
+        ///E2
+        ///L90
+        ///F48
+        ///N1
+        ///S5
+        ///E2
+        ///F53
+        ///E3
+        ///L90
+        ///F37
+        ///S3
+        ///F65
+        ///L90
+        ///F78
+        ///W3
+        ///S4
+        ///L90
+        ///F54
+        ///F61
+        ///E5
+        ///S1
+        ///L90
+        ///W2
+        ///L90
+        ///N3
+        ///F63
+        ///S3
+        ///E3
+        ///F83
+        ///R90
+        ///S2
+        ///W2
+        ///S5
+        ///E1
+        ///R90
+        ///W1
+        ///R90
+        ///W3
+        ///F52
+        ///E1
+        ///S4
+        ///E1
+        ///E4
+        ///R90
+        ///E4
+        ///F94
+        ///N5
+        ///F56
+        ///F17
+        ///L180
+        ///W2
+        ///S2
+        ///R90
+        ///S3
+        ///F49
+        ///R90
+        ///N4
+        ///E1
+        ///N3
+        ///F49
+        ///R90
+        ///S2
+        ///E3
+        ///F29
+        ///E2
+        ///R270
+        ///E5
+        ///L90
+        ///W3
+        ///F24
+        ///E2
+        ///S2
+        ///L90
+        ///F46
+        ///N1
+        ///F65
+        ///E1
+        ///N4
+        ///E5
+        ///R90
+        ///S4
+        ///L90
+        ///F51
+        ///R90
+        ///L180
+        ///W3
+        ///R90
+        ///L270
+        ///W4
+        ///S1
+        ///W1
+        ///L180
+        ///S1
+        ///F20
+        ///E5
+        ///L180
+        ///N2
+        ///F11
+        ///R180
+        ///N5
+        ///E2
+        ///N3
+        ///L90
+        ///F64
+        ///N3
+        ///W5
+        ///L90
+        ///W5
+        ///S2
+        ///F51
+        ///L90
+        ///F78
+        ///W1
+        ///R180
+        ///F84
+        ///R90
+        ///W3
+        ///L90
+        ///F59
+        ///S3
+        ///R90
+        ///R90
+        ///E2
+        ///F29
+        ///R90
+        ///F70
+        ///S1
+        ///F52
+        ///L90
+        ///N4
+        ///E1
+        ///F81
+        ///W3
+        ///F81
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RainRiskInput {
+            get {
+                return ResourceManager.GetString("RainRiskInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 1429
         ///1368
         ///1661
@@ -621,6 +878,20 @@ namespace Aoc2020.Tests.Resources {
         internal static string ReportRepairSampleInput {
             get {
                 return ResourceManager.GetString("ReportRepairSampleInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LLLLLLLLLLLLLLLLLLLLLLLLL.LLLLL..LLLLLLLLLLLL.LLL..LLLLLLLLLLLLLL.LL.LLLLL.LLLLLLLLL.LLLLLLLLLLLLL
+        ///LLLLLLL.LLLLLLL.LLLLLLLLL.LLLLL.LLLL.LLLLLLLL.LLLLLLLLL.LLLL.LLLLLLLLLLLLLLLLLLLLLL..LLLLLLL..LLLL
+        ///LLLLLL.LLLLLLLLLLLLLLLLLL.LLLLL.LLLLLLLLL.LLL.LLLLLLLLLLLLLL.LLLLLLL..LLLLLLLLLLLLLLLLLLLLLL.LLLLL
+        ///LLLLLLL.LLLLLLLLLLLLLLLLLLLLLLL.LLLL.LLLLLLLLLLLLLLLLLLLL.LLLLLLLLLLLLLLL..LLLLLLLLL.LLLLLLL..LLLL
+        ///.LLL.LL.LLLLLLL.LLLLLLLLL.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL.LLLLLLL.LLLLL.LLLLLLLLL.LLLLLLLLLLLLL
+        ///LL.LLLL.LLLL [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SeatingSystemInput {
+            get {
+                return ResourceManager.GetString("SeatingSystemInput", resourceCulture);
             }
         }
         
