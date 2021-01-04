@@ -127,6 +127,9 @@
   <data name="CustomCustomsInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>CustomCustomsInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
+  <data name="DockingDataInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>DockingDataInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="EncodingErrorInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>EncodingErrorInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
@@ -153,6 +156,9 @@
   </data>
   <data name="SeatingSystemInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>SeatingSystemInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="ShuttleSearchInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>ShuttleSearchInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="TobogganTrajectoryInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>TobogganTrajectoryInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>

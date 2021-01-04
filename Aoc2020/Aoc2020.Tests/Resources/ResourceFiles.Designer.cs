@@ -289,6 +289,35 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to mask = X1011100000X111X01001000001110X00000
+        ///mem[4616] = 8311689
+        ///mem[8936] = 240
+        ///mem[58007] = 369724
+        ///mask = 10X0111X01X0XX110X10100X1001X000010X
+        ///mem[41137] = 232605
+        ///mem[33757] = 1437435
+        ///mask = X0011110100X011X01000X1000X1000X0100
+        ///mem[12518] = 27521105
+        ///mem[25203] = 3177
+        ///mem[33089] = 636515
+        ///mem[39100] = 494341
+        ///mem[59321] = 16252
+        ///mem[55061] = 1075
+        ///mask = 1000X11X01X0X01111XX10110001X1110111
+        ///mem[16129] = 15646
+        ///mem[35714] = 30634
+        ///mem[14485] = 6847
+        ///mask = 10011110110000X10X0X1010XX1010100X00
+        ///mem[2308] = 704945037
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string DockingDataInput {
+            get {
+                return ResourceManager.GetString("DockingDataInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 21
         ///32
         ///15
@@ -892,6 +921,17 @@ namespace Aoc2020.Tests.Resources {
         internal static string SeatingSystemInput {
             get {
                 return ResourceManager.GetString("SeatingSystemInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1002462
+        ///37,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41,x,x,x,x,x,x,x,x,x,601,x,x,x,x,x,x,x,x,x,x,x,19,x,x,x,x,17,x,x,x,x,x,23,x,x,x,x,x,29,x,443,x,x,x,x,x,x,x,x,x,x,x,x,13
+        ///.
+        /// </summary>
+        internal static string ShuttleSearchInput {
+            get {
+                return ResourceManager.GetString("ShuttleSearchInput", resourceCulture);
             }
         }
         

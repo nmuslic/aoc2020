@@ -29,7 +29,7 @@ namespace Aoc2020.Day5
             return -1;
         }
 
-        public static void ParseSeats(string input)
+        private static void ParseSeats(string input)
         {
             string[] boardingPasses = input.Split('\n')[..^1];
 

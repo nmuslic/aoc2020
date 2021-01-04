@@ -45,7 +45,7 @@ namespace Aoc2020.Day2
             return result;
         }
 
-        public static List<PasswordPolicy> ParseInput(string input)
+        private static List<PasswordPolicy> ParseInput(string input)
         {
             string[] rows = input.Split('\n')[..^1];
 

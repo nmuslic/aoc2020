@@ -40,7 +40,7 @@ namespace Aoc2020.Day3
             return slopes[0].TreeCount;
         }
 
-        public static void CalculateTreeCount(string input, List<Slope> slopes)
+        private static void CalculateTreeCount(string input, List<Slope> slopes)
         {
             string[] rows = input.Split('\n');
 
@@ -61,7 +61,7 @@ namespace Aoc2020.Day3
             }
         }
 
-        public static int GetPosition(string row, int position)
+        private static int GetPosition(string row, int position)
         {
             return row.Length <= position ? position - row.Length : position;
         }
