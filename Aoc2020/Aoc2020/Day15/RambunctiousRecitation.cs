@@ -5,12 +5,12 @@ namespace Aoc2020.Day15
 {
     public static class RambunctiousRecitation
     {
-        public static int GetSpokenNumber(int[] numbers)
+        public static int GetSpokenNumber(int[] numbers, int count)
         {
             Dictionary<int, int> spokenNums = Enumerable.Range(0, numbers.Length).ToDictionary(x => numbers[x]);
             int current = 0;
 
-            for (int i = numbers.Length + 2; i <= 2020; i++)
+            for (int i = numbers.Length + 2; i <= count; i++)
             {
                 if (spokenNums.ContainsKey(current))
                 {
