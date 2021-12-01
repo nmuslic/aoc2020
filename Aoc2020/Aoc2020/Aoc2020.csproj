@@ -9,17 +9,4 @@
     <PackageReference Include="System.Collections" Version="4.3.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Day16\" />
-    <Folder Include="Day17\" />
-    <Folder Include="Day18\" />
-    <Folder Include="Day19\" />
-    <Folder Include="Day20\" />
-    <Folder Include="Day21\" />
-    <Folder Include="Day22\" />
-    <Folder Include="Day23\" />
-    <Folder Include="Day24\" />
-    <Folder Include="Day25\" />
-  </ItemGroup>
-
 </Project>

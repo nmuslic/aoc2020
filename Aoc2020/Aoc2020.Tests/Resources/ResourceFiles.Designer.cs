@@ -166,6 +166,16 @@ namespace Aoc2020.Tests.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to cdblnb txts scljtv dsvl ksdgk zbkbgp jflb gxhc chjx rnptcf hpvzlb hxxb gcc rrbk lzpcq dpk rmrmhb clbqr jvpsllhl lbvgfq lhgkrc kmjvr dbkz pctjm mxd nqkggbpq dtpkz vjbmbz hk ljkdr nvbrx bgzm xplz flxvrh qxmrqb zlc bgqg rvvcm dskjpq dgms xzb bhzqc xbhmf jrfzs jbvhl xzgst nkn lrhtp khqsk gtjhr grkrz mvbxt lkrnkm qsbsr bcpgx hplt jdcvff cdqrg pgnpx ttmr (contains dairy, sesame)
+        ///hdfrg rvvcm kqpbzn ksj dcgpsq bgzm rrbk dsvl pctjm dbkz rmbk cdblnb spfzpm ckptp rzvpm gdhpvgz vjbmbz jmtzqjs rzpdmp khqsk jbmq ttmr nkn [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string AllergenAssessmentInput {
+            get {
+                return ResourceManager.GetString("AllergenAssessmentInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to BFFBFBFLRL
         ///BFBFBBBLRR
         ///BFBFBFBLRR
@@ -217,6 +227,23 @@ namespace Aoc2020.Tests.Resources {
         internal static string BinaryBoardingInput {
             get {
                 return ResourceManager.GetString("BinaryBoardingInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ######.#
+        ///##.###.#
+        ///#.###.##
+        ///..#..###
+        ///##.#.#.#
+        ///##...##.
+        ///#.#.##.#
+        ///.###.###
+        ///.
+        /// </summary>
+        internal static string ConwayCubesInput {
+            get {
+                return ResourceManager.GetString("ConwayCubesInput", resourceCulture);
             }
         }
         
@@ -565,6 +592,61 @@ namespace Aoc2020.Tests.Resources {
         internal static string HandyHaversacksInput {
             get {
                 return ResourceManager.GetString("HandyHaversacksInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 56: 39 28 | 110 10
+        ///85: 34 110 | 111 39
+        ///4: 39 74 | 110 44
+        ///125: 96 39 | 112 110
+        ///79: 39 117 | 110 24
+        ///91: 52 39 | 65 110
+        ///60: 39 83 | 110 58
+        ///101: 109 39 | 28 110
+        ///98: 130 39 | 88 110
+        ///8: 42
+        ///11: 42 31
+        ///27: 110 1 | 39 86
+        ///104: 28 110 | 44 39
+        ///120: 44 39 | 66 110
+        ///34: 110 35 | 39 46
+        ///116: 39 80 | 110 90
+        ///87: 74 39 | 64 110
+        ///76: 98 110 | 41 39
+        ///108: 115 110 | 44 39
+        ///59: 110 44
+        ///103: 110 36 | 39 33
+        ///66: 39 110 | 110 82
+        ///62: 39 102 | 110 116
+        ///30: 39 24 | 110 80
+        ///123: 110 44 | 39 109
+        ///93: 39 53 | 110 77
+        ///80: 39 39
+        ///83: 27 110 | 119 39
+        ///11 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string MonsterMessagesInput {
+            get {
+                return ResourceManager.GetString("MonsterMessagesInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (6 + 6 * 9) * 7 * 9 + (7 * (7 + 3 * 4 + 8 * 9 + 2) + 3 * 2 * 4 + 5) + 8 * 2
+        ///6 * 5 * 4 * 4 * 7
+        ///2 + 9 * 7 + 2 + 8 * 4
+        ///6 * (5 + (6 * 7 * 3 * 3 + 2 + 3) + 6 * (4 + 7 * 3 + 5 + 5 + 2) * 4 + 4) * 9
+        ///((2 + 3 + 4) + (7 + 7 + 8) + 8) + 5 + (4 + 9)
+        ///5 + (7 + 6 * 9 * 3) + 4 + 3 * 7
+        ///3 + 8 + (3 * (7 + 8 + 8 * 5 + 5 * 9) + 9 * (9 * 3 + 7 + 9 + 6) + 4) * 9
+        ///3 * 7 + 5 + (5 * 5 * (7 + 5)) + (2 + (9 + 9 + 6 * 3 + 9 + 2) + (4 * 4 + 3 + 2 + 2 * 3))
+        ///2 + (8 * (2 + 4 + 7 * 9 + 3) * (8 * 5 + 8 + 4 * 8 + 9) * 2 * 2)
+        ///5 + ((7 * [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string OperationOrderInput {
+            get {
+                return ResourceManager.GetString("OperationOrderInput", resourceCulture);
             }
         }
         
@@ -932,6 +1014,31 @@ namespace Aoc2020.Tests.Resources {
         internal static string ShuttleSearchInput {
             get {
                 return ResourceManager.GetString("ShuttleSearchInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to departure location: 49-920 or 932-950
+        ///departure station: 28-106 or 130-969
+        ///departure platform: 47-633 or 646-950
+        ///departure track: 41-839 or 851-967
+        ///departure date: 30-71 or 88-966
+        ///departure time: 38-532 or 549-953
+        ///arrival location: 38-326 or 341-968
+        ///arrival station: 27-809 or 834-960
+        ///arrival platform: 29-314 or 322-949
+        ///arrival track: 26-358 or 368-966
+        ///class: 34-647 or 667-951
+        ///duration: 39-771 or 785-958
+        ///price: 43-275 or 286-960
+        ///route: 28-235 or 260-949
+        ///row: 48-373 or 392-962
+        ///seat: 35-147 or 172-953
+        ///train: 3 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TicketTranslationInput {
+            get {
+                return ResourceManager.GetString("TicketTranslationInput", resourceCulture);
             }
         }
         

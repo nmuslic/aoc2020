@@ -121,8 +121,14 @@
   <data name="AdapterArrayInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>AdapterArrayInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
+  <data name="AllergenAssessmentInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>AllergenAssessmentInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="BinaryBoardingInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>BinaryBoardingInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="ConwayCubesInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>ConwayCubesInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="CustomCustomsInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>CustomCustomsInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
@@ -138,6 +144,12 @@
   </data>
   <data name="HandyHaversacksInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>HandyHaversacksInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="MonsterMessagesInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>MonsterMessagesInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="OperationOrderInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>OperationOrderInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="PassportProcessingInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>PassportProcessingInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
@@ -159,6 +171,9 @@
   </data>
   <data name="ShuttleSearchInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>ShuttleSearchInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="TicketTranslationInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>TicketTranslationInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
   <data name="TobogganTrajectoryInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>TobogganTrajectoryInput.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
